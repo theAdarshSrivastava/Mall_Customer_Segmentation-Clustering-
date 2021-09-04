@@ -18,3 +18,7 @@ A small project representing the clustering of the customers of a particular mal
 - Running the file:
 
         python3 Mall Customer Segmentation.py
+        
+## Output
+
+<img src='Assets/output.png'>
